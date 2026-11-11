@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xbn4/GYB4sw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\masak\\OneDrive\\ドキュメント\\ChatGPT\\logger\\WindowsEventLogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\masak\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.14\\system.diagnostics.eventlog.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
